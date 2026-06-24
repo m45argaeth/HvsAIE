@@ -124,12 +124,12 @@ export const PLAYGROUNDS: Playground[] = [
     status: "live",
   },
   {
-		id: "prompt",
-		name: "Prompt Explorer",
-		url: "https://pe-playground-snowy.vercel.app",
-		universe: "ebn",
-		status: "live",
-	},,
+  id: "prompt",
+  name: "Prompt Explorer",
+  url: "https://pe-playground-snowy.vercel.app",
+  universe: "ebn",
+  status: "live",
+  },
   {
     id: "hallucination",
     name: "Hallucination Explorer",
