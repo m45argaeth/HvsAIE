@@ -1,3 +1,5 @@
+"use client"
+
 import * as React from "react"
 export type Locale = "id" | "en"
 export const LOCALES: Locale[] = ["id", "en"]
